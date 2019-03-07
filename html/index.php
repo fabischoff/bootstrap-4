@@ -43,6 +43,7 @@
 
         <main class="jumbotron">
             <div class="container">
+
                 <h1>Momentos perfeitos</h1>
                 <p>Lore ipsum dolor</p>
 
@@ -51,13 +52,28 @@
                     <span class="input-group-btn">
                         <button class="btn btn-primary"> Pesquisar</button>
                     </span>
-
                 </form>
-                   
-
             </div>
         </main>
-        Buscar
+
+        <section class="hall bg-dark text-light pt-sm-4">
+            <div class="container">
+                <div class="row d-flex align-items-center">
+                    <div class="col-lg-6">
+                        <h1>Hall da fama do mês de janeiro</h1>
+
+                        <p> Por votação do público e número de downloads, escolhemos todo mês as fotografias mais baixadas do mês anterior e disponibilizamos de graça. </p>
+
+                        <button class="btn btn-primary btn-lg">Quero votar</button>
+                    </div>
+
+                    <figure class="col-lg-6 mt-4">
+                        <img class="img-fluid img-thumbnail" src="../img/girassois.jpg" alt="Girassóis no campo">
+                        <figcaption>girassóis</figcaption>
+                    </figure>
+                </div>
+            </div>
+        </section>
 
 
         <script src="../js/jquery-3.3.1.js"></script>
