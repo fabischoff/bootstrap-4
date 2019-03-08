@@ -40,20 +40,82 @@
             </div><!--fim div class container-->
         </nav>
 
+        <main>
+            <section class="jumbotron">
+                <div class="container">
+                    <h1>Momentos perfeitos</h1>
+                    <p>Lore ipsum dolor</p>
 
-        <main class="jumbotron">
-            <div class="container">
+                    <form class="input-group">
+                        <input type="search" class="form-control" placeholder="Encontre o que você procura ...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-primary"> Pesquisar</button>
+                        </span>
 
-                <h1>Momentos perfeitos</h1>
-                <p>Lore ipsum dolor</p>
+                    </form>
+                </div>
+            </section> <!-- fim da class jumbtron -->
 
-                <form class="input-group">
-                    <input type="search" class="form-control" placeholder="Encontre o que você procura ...">
-                    <span class="input-group-btn">
-                        <button class="btn btn-primary"> Pesquisar</button>
-                    </span>
-                </form>
-            </div>
+            <section class="container">
+                <h2 class="text-center">Imagens bonitas, lindas e perfeitas</h2>
+                <p class="text-center">Lorem ipsun dolor emet aset</p>
+
+                <div class="row">
+                    <a href="#" class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"class="img-fluid img-thumbnail"class="img-fluid img-thumbnail" src="../img/girassois.jpg" alt="Girassóis no campo">
+                            <figcaption>Girassóis</figcaption>
+                        </figure>
+                    </a> 
+
+                    <a href="#" class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/garota-silhueta.jpg" alt="Silhueta garota">
+                            <figcaption>Silhueta garota</figcaption>
+                        </figure>
+                    </a>
+
+                    <a href="#"class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/mesa-designer.jpg" alt="Típica mesa de um designer">
+                            <figcaption>Mesa de designer</figcaption>
+                        </figure>
+                    </a>
+
+                    <a href="#"class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/pipoca.jpg" alt="pipoca">
+                            <figcaption>Pipoca</figcaption>
+                        </figure>
+                    </a>
+
+                    <a href="#"class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/garota-feliz.jpg" alt="Mulher feliz">
+                            <figcaption>Mulher feliz</figcaption>
+                        </figure>
+                    </a>
+
+                    <a href="#" class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/sunset.jpg" alt="Pòr do saol">
+                            <figcaption>Pôr do sol</figcaption>
+                        </figure>
+                    </a>
+                    <a href="#" class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/sunset.jpg" alt="Pòr do saol">
+                            <figcaption>Pôr do sol</figcaption>
+                        </figure>
+                    </a>
+                    <a href="#" class="col-sm-6 col-md-4 col-lg-3">
+                        <figure>
+                            <img class="img-fluid img-thumbnail"src="../img/sunset.jpg" alt="Pòr do saol">
+                            <figcaption>Pôr do sol</figcaption>
+                        </figure>
+                    </a>
+                </div>
+            </section>
         </main>
 
         <section class="hall bg-dark text-light pt-sm-4">
