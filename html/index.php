@@ -135,6 +135,55 @@
                     </figure>
                 </div>
             </div>
+        </section> <!--fim da section hall-->
+
+        <section class="reviews container pt-5">
+
+            <h1 class="mb-3">Reviews</h1>
+
+            <div class="row">
+
+                <div class="media col-md-6"> <img src="https://dummyimage.com/64x64/000000/fff" alt="Roberto Ford" class="mr-3"> 
+
+                    <div class="media-body">
+                        <h2 class="h5">Roberto Ford</h2>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                    </div>
+                </div>
+                <div class="media col-md-6"> <img src="https://dummyimage.com/64x64/000000/fff" alt="Roberto Ford" class="mr-3"> 
+
+                    <div class="media-body">
+                        <h2 class="h5">Roberto Ford</h2>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                    </div>
+                </div>
+                <div class="media col-md-6"> <img src="https://dummyimage.com/64x64/000000/fff" alt="Roberto Ford" class="mr-3"> 
+
+                    <div class="media-body">
+                        <h2 class="h5">Roberto Ford</h2>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                    </div>
+                </div>
+                <div class="media col-md-6"> <img src="https://dummyimage.com/64x64/000000/fff" alt="Roberto Ford" class="mr-3"> 
+
+                    <div class="media-body">
+                        <h2 class="h5">Roberto Ford</h2>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </section>
 
 
